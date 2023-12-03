@@ -1,0 +1,14 @@
+.MenuButton {
+  display: flex;
+  flex-direction: column;
+  height: 24px;
+}
+
+.line1,
+.line2,
+.line3 {
+  height: 2px;
+  width: 24px;
+  border-radius: 10px;
+  background-color: rgb(46, 46, 46);
+}
